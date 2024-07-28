@@ -17,6 +17,7 @@ To use this bot, clone the repository and install the required dependencies.
 git clone https://github.com/ooovenenoso/Dall-E-3-Discord-Bot.git
 cd Dall-E-3-Discord-Bot
 pip install -r requirements.txt
+pip install openai==0.28
 ```
 
 ## Usage
